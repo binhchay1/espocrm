@@ -1,0 +1,14 @@
+{
+    "links": {
+        "meetings": "Meetings",
+        "calls": "Calls",
+        "tasks": "Tasks",
+        "users": "Users"
+    },
+    "labels": {
+        "Create Wage": "Create Human Resources"
+    },
+    "fields": {
+        "users": "Users"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "links": [],
+    "labels": {
+        "Create TimeLineType": "Create TimeLineType"
+    },
+    "fields": {
+        "type": "Type",
+        "startAt": "StartAt",
+        "endAt": "EndAt"
+    }
+}

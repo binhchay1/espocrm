@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "parent": {
+            "entityList": [
+                "Account",
+                "Lead",
+                "Contact",
+                "Opportunity",
+                "Case"
+            ]
+        }
+    }
+}

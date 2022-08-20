@@ -1,0 +1,9 @@
+{
+    "fields": {
+        "file": "File"
+    },
+    "links": [],
+    "labels": {
+        "Create ImportLog": "Create ImportLog"
+    }
+}

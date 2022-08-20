@@ -1,0 +1,14 @@
+{
+    "scopeNames": {
+        "TimelineWork": "Timeline Work",
+        "HistoryImport": "History Import",
+        "TimeLineType": "TimeLineType",
+        "ImportLog": "ImportLog"
+    },
+    "scopeNamesPlural": {
+        "TimelineWork": "Timeline Works",
+        "HistoryImport": "History Imports",
+        "TimeLineType": "TimeLineTypes",
+        "ImportLog": "ImportLogs"
+    }
+}

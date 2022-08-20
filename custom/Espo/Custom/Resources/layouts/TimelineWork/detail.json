@@ -1,0 +1,39 @@
+[
+    {
+        "rows": [
+            [
+                {
+                    "name": "status"
+                },
+                false
+            ],
+            [
+                {
+                    "name": "dateStart"
+                },
+                {
+                    "name": "dateEnd"
+                }
+            ],
+            [
+                {
+                    "name": "duration"
+                },
+                {
+                    "name": "reminders"
+                }
+            ],
+            [
+                {
+                    "name": "description"
+                }
+            ],
+            [
+                false,
+                false
+            ]
+        ],
+        "style": "default",
+        "label": "Overview"
+    }
+]

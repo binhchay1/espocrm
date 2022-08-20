@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "wage": "Wage"
+    },
+    "links": {
+        "wage": "Wage"
+    }
+}

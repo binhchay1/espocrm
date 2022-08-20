@@ -1,0 +1,38 @@
+[
+    {
+        "name": "employeeId"
+    },
+    {
+        "name": "employeeName"
+    },
+    {
+        "name": "employeeRole"
+    },
+    {
+        "name": "typeJob"
+    },
+    {
+        "name": "monday"
+    },
+    {
+        "name": "tuesday"
+    },
+    {
+        "name": "wednesday"
+    },
+    {
+        "name": "thursday"
+    },
+    {
+        "name": "friday"
+    },
+    {
+        "name": "saturday"
+    },
+    {
+        "name": "sunday"
+    },
+    {
+        "name": "employeePhone"
+    }
+]
