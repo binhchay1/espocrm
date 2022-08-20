@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "client",
+        "paths": {
+            "*": ["src/*"],
+            "crm:*": ["modules/crm/src/*"]
+        },
+        "module": "AMD",
+        "target": "ES2018"
+    }
+}
